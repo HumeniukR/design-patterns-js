@@ -6,9 +6,9 @@ The goal of the project is to create a set of examples of design patterns with a
 
 ### Classification
 
-**Creational patterns** they rely on the creation of objects without introducing any dependencies into the program.. [->](https://github.com/HumeniukR/design-patterns-js/tree/master/creational_patterns)
+**Creational patterns** they rely on the creation of objects without introducing any dependencies into the program.. [->](https://github.com/HumeniukR/design-patterns-js/tree/master/creational-patterns)
 
-**Structural patterns** show different ways of creating connections between objects.  [->](https://github.com/HumeniukR/design-patterns-js/tree/master/structural_patterns)
+**Structural patterns** show different ways of creating connections between objects.  [->](https://github.com/HumeniukR/design-patterns-js/tree/master/structural-patterns)
 
 **Behavioral patterns** focus on effective communication between objects. [->](https://github.com/HumeniukR/design-patterns-js/tree/master/behavioral-patterns)
 
